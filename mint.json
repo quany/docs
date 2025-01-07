@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "iCoding",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -17,40 +17,40 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "支持",
+      "url": "mailto:quany@live.com"
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
+    "name": "控制台",
     "url": "https://dashboard.mintlify.com"
   },
   "tabs": [
     {
-      "name": "API Reference",
+      "name": "API 参数",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "文档",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
     {
-      "name": "Community",
+      "name": "社区",
       "icon": "slack",
       "url": "https://mintlify.com/community"
     },
     {
-      "name": "Blog",
+      "name": "博客",
       "icon": "newspaper",
       "url": "https://mintlify.com/blog"
     }
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "开始",
       "pages": [
         "introduction",
         "quickstart",
@@ -69,7 +69,7 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "API 文档",
       "pages": [
         "api-reference/introduction"
       ]
