@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Essentials",
+      "group": "必需品",
       "pages": [
         "essentials/markdown",
         "essentials/code",
@@ -75,7 +75,7 @@
       ]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "接口示例",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
